@@ -4,7 +4,7 @@ on:
   workflow_dispatch:  # Manual trigger
     inputs:
       pitt_id:
-        description: 'Your pitt id'
+        description: 'amj160'
         type: string
         required: true
         default: 'xzy123'
